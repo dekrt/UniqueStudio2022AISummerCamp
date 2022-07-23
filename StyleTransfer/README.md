@@ -1,10 +1,16 @@
-# 一些感想
+# 第一周 | First Week
+
+## 一些感想
 
 确实是第一次感受到了AI的魅力。
 
-打开发来的论文，明明每个单词都认识（也不是都认识吧。。。），但是连在一起怎么这么晦涩难懂。然后就开始恶补，各种找视频，找文档进行阅读学习，光是装torch环境就折磨了好久，写一行代码可能会报十个错，为了写出模型甚至Debug会De到凌晨两点。一点经历折磨之后的感慨而已，罢了罢了。
+打开发来的论文，明明每个单词都认识（也不是都认识吧。。。），但是连在一起怎么这么晦涩难懂。然后就开始恶补，各种找视频，找文档进行阅读学习，光是装torch环境就折磨了好久，写一行代码可能会报十个错，为了调模型甚至Debug会De到凌晨两点。我真的会栓Q。
 
-# 参考资料
+## 代码思路
+
+详见文件内部的注释
+
+## 参考资料
 
 - pytorch官方文档：[Neural Transfer Using PyTorch — PyTorch Tutorials 1.12.0+cu102 documentation](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html)
 
