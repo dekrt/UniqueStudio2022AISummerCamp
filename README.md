@@ -14,3 +14,7 @@
 - 项目文件夹： **DecisionTree&Adaboost**
 - 推荐使用 **Jupyter Notebook** 打开以获取最佳效果
 - 项目详情与注释请参见项目文件夹内README文件与 jupyter notebook 内的 Markdown 注释块
+
+## 第三周 | Third Week
+
+> 完成详细的svm公式推导和svm实现，核函数，合页损失函数的有关知识
